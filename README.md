@@ -45,8 +45,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-hyFdOT
+RiNzu8Ur
