@@ -43,14 +43,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-
-
-
-wAi6MDD12
+jA5XtItv
