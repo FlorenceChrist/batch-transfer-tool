@@ -47,6 +47,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-HrVdDzjF
+Jq4p7XBJ
