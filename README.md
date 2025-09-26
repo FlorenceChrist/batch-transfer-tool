@@ -45,12 +45,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-
-2kR7WDMnJI
+k2019k
