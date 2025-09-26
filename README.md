@@ -39,20 +39,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7DYEAJiD
+SMyQ7
