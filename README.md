@@ -47,13 +47,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-PDIPUPQ
-
-za57ptfr
+sF9KO5o
