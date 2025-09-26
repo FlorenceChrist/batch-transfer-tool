@@ -41,14 +41,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-
-
-
-FbIEE
+rtlnCAR7
