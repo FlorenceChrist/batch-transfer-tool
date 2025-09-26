@@ -45,6 +45,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-uf3fc
+dp82QcM
