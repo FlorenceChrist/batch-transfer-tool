@@ -47,8 +47,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-JsMNHveVp3
+TCaNDs
