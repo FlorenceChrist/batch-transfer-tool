@@ -43,14 +43,4 @@ batch-transfer ERC20 TOKEN
 
 
 
-
-
-
-
-
-
-
-
-
-
-iezcutc0
+K4EBoD15Y
