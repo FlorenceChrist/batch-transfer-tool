@@ -1,0 +1,10 @@
+{
+    "rpc_url": "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
+    "private_key": "YOUR_PRIVATE_KEY",
+    "recipients": [
+        {
+            "address": "0x...",
+            "amount": 0.1
+        }
+    ]
+}
